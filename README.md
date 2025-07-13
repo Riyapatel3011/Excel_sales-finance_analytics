@@ -1,4 +1,4 @@
-# Excel_sales-finance_analytics
+# Excel_Sales-Finance_Analytics
 
 This project includes two practical Excel dashboards created to analyze sales performance and financial data. These dashboards were built as part of my data analytics learning journey, using real-world-style datasets and Excel's advanced features.
 
@@ -7,8 +7,8 @@ This project includes two practical Excel dashboards created to analyze sales pe
 ## 📈 Sales Report
 
 ### 🔹 Objective:
-- Develop a comprehensive [Customer Performance Report](Customer Performance Report.pdf)
-- Compare **Market Performance VS Target**[Market Performance VS Target.pdf] across different markets
+- Develop a comprehensive [Customer Performance Report](Customer_Performance_Report.pdf)
+- Compare [Market Performance vs Target](Market_Performance_VS_Target.pdf) across different markets
 
 ### 🔹 Purpose:
 To help businesses track sales activities, measure performance, and identify high-impact regions or customers.
@@ -22,10 +22,10 @@ To help businesses track sales activities, measure performance, and identify hig
 ## 💰 Finance Report
 
 ### 🔹 Objective:
-- Build **Profit & Loss (P&L) Statements** by Fiscal Year, Month, and Market
--  **Profit & Loss (P&L) By Fiscal Year**[P&L By Fiscal Years.pdf]
--  **Profit & Loss (P&L) By Month**[P&L By Months.pdf]
--  **Profit & Loss (P&L) By Market**[P&L By Market.pdf]
+- Build Profit & Loss (P&L) Statements by Fiscal Year, Month, and Market:
+  - [P&L by Fiscal Year](PL_By_Fiscal_Year.pdf)
+  - [P&L by Month](PL_By_Month.pdf)
+  - [P&L by Market](PL_By_Market.pdf)
 
 ### 🔹 Purpose:
 To evaluate financial health, assist in budgeting, and improve strategic alignment.
