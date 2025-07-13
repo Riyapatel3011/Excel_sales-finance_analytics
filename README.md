@@ -8,7 +8,7 @@ This project includes two practical Excel dashboards created to analyze sales pe
 
 ### 🔹 Objective:
 - Develop a comprehensive [Customer Performance Report](Customer%20Performance%20Report.pdf)
-- Compare [Market Performance VS Target](Market%20Performance%20VS%20Target.pdf) across different markets
+- Compare [Sales Targets vs Actuals](Market%20Performance%20VS%20Target.pdf) across different markets
 
 ### 🔹 Purpose:
 To help businesses track sales activities, measure performance, and identify high-impact regions or customers.
