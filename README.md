@@ -7,8 +7,8 @@ This project includes two practical Excel dashboards created to analyze sales pe
 ## 📈 Sales Report
 
 ### 🔹 Objective:
-- Develop a comprehensive [Customer Performance Report](Customer_Performance_Report.pdf)
-- Compare [Market Performance vs Target](Market_Performance_VS_Target.pdf) across different markets
+- Develop a comprehensive [Customer Performance Report](Customer%20Performance%20Report.pdf)
+- Compare [Market Performance VS Target](Market%20Performance%20VS%20Target.pdf) across different markets
 
 ### 🔹 Purpose:
 To help businesses track sales activities, measure performance, and identify high-impact regions or customers.
@@ -23,9 +23,9 @@ To help businesses track sales activities, measure performance, and identify hig
 
 ### 🔹 Objective:
 - Build Profit & Loss (P&L) Statements by Fiscal Year, Month, and Market:
-  - [P&L by Fiscal Year](PL_By_Fiscal_Year.pdf)
-  - [P&L by Month](PL_By_Month.pdf)
-  - [P&L by Market](PL_By_Market.pdf)
+  - [P&L By Fiscal Years](P%26L%20By%20Fiscal%20Years.pdf)
+  - [P&L By Months](P%26L%20By%20Months.pdf)
+  - [P&L By Market](P%26L%20By%20Market.pdf)
 
 ### 🔹 Purpose:
 To evaluate financial health, assist in budgeting, and improve strategic alignment.
